@@ -1,0 +1,86 @@
+h1 {
+  font-size: 55px;
+  display: inline;
+  font-family: 'Bungee Outline', sans-serif;
+}
+
+.picHead {
+  border-radius: 50%;
+  width: 33%;
+  length: 33%;
+}
+
+body {
+  background-image: url("http://wallpapercave.com/wp/95YGb7l.jpg");
+  background-attachment: fixed;
+  background-size: contain;
+  background-position: center;
+}
+
+table {
+  width: 40%;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+th, td {
+  text-align: center;
+  width: 9%;
+}
+
+td {
+  color: white;
+}
+
+.players {
+  text-align: center;
+}
+
+.highlight {
+  background-color: rgba(255, 255, 119, 0.5);
+  width: 15%;
+}
+
+.white {
+  color: white;
+}
+
+.fa {
+ padding: 20px;
+ font-size: 30px;
+ width: 40px;
+ text-align: center;
+ text-decoration: none;
+ margin: 5px 2px;
+}
+
+.fa:hover {
+  opacity: 0.75;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+.fa-gavel {
+   vertical-align: middle;
+   margin-top: -5px;
+}
+
+.heading {
+  text-align: center;
+}

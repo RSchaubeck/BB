@@ -1,0 +1,39 @@
+body {
+  background-image: url("http://thetimes-tribune.com/polopoly_fs/1.2147986!/image/image.jpg_gen/derivatives/landscape_700/image.jpg");
+  background-attachment: fixed;
+  background-size: contain;
+}
+
+ul li {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: block;
+  color: #fff;
+  width: 15%;
+  background-color: #082656;
+  font-size: 20px;
+  float: right;
+}
+
+ul li:hover {
+  background-color: #434c59;
+  cursor: pointer;
+}
+
+ul a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.fa-caret-up {
+  vertical-align: middle;
+  float: right;
+  margin-right: -13.5%;
+  margin-top: 4px;
+  color: white;
+}
+
+.fa-caret-up:hover {
+  cursor: pointer;
+}
